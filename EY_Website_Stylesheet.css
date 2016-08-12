@@ -176,8 +176,8 @@ p {
 }
 
 #video1 {
-	position: relative;
-	width: 75%;
+	position: left;
+	width: 100%;
 	height: 0px;
 	padding-bottom: 56.25%;
 }
@@ -190,8 +190,8 @@ p {
 }
 
 #video2 {
-	position: relative;
-	width: 75%;
+	position: right;
+	width: 100%;
 	height: 0px;
 	padding-bottom: 56.25%;
 }
