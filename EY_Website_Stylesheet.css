@@ -185,8 +185,8 @@ p {
 .video1 {
 	/*float: left;
 	margin-left: 35px;*/
-	/*border: 3px white solid;*/
-	position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;
+	border: 3px white solid;
+	position: absolute; left: 0px; top: 0px; width: 40%; height: 40%;
 }
 
 #video2 {
@@ -199,8 +199,8 @@ p {
 .video2 {
 	/*float: right;
 	margin-right: 35px;*/
-	/*border: 3px white solid;*/
-	position: absolute; right: 0px; top: 0px; width: 100%; height: 100%;
+	border: 3px white solid;
+	position: absolute; right: 0px; top: 0px; width: 40%; height: 40%;
 }
 
 .media_logo1 {
