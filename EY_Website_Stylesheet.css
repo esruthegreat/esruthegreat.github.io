@@ -46,11 +46,11 @@ color: red;
 color: grey;
 }
 
-/*table, td {
+table, td {
 	padding: 0;
 	margin: 0;
 	border: 6px blue solid;
-}*/
+}
 
 .table1 {
 	margin-left: auto;
@@ -184,12 +184,12 @@ p {
 }
 
 #video1 {
-	position: relative;
-	/*display: inline-block;
-	margin: 0 auto;*/
+	/*position: relative;
+	display: inline-block;
+	margin: 0 auto;
 	width: 45%;
 	height: 10px;
-	padding-bottom: 35%;
+	padding-bottom: 35%;*/
 	border: 3px red solid;
 }
 
@@ -197,19 +197,19 @@ p {
 	/*float: left;
 	margin-left: 35px;*/
 	border: 3px white solid;
-	display: block;
+	/*display: block;
 	margin: 0 auto;
-	position: absolute; left: 10px; top: 0px; width: 85%; height: 100%;
+	position: absolute; left: 10px; top: 0px; width: 85%; height: 100%;*/
 }
 
 #video2 {
-	position: relative;
-	/*display: inline-block;
+	/*position: relative;
+	display: inline-block;
 	margin: 0 auto;
-	right: 0px;*/
+	right: 0px;
 	width: 45%;
 	height: 10px;
-	padding-bottom: 35%;
+	padding-bottom: 35%;*/
 	border: 3px orange solid;
 }
 
@@ -217,9 +217,9 @@ p {
 	/*float: right;
 	margin-right: 35px;*/
 	border: 3px white solid;
-	display: block;
+	/*display: block;
 	margin: 0 auto;
-	position: absolute; right: 10px; top: 0px; width: 85%; height: 100%;
+	position: absolute; right: 10px; top: 0px; width: 85%; height: 100%;*/
 }
 
 .media_logo1 {
