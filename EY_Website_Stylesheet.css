@@ -185,8 +185,8 @@ p {
 
 #video1 {
 	position: relative;
-	display: inline-block;
-	margin: 0 auto;
+	/*display: inline-block;
+	margin: 0 auto;*/
 	width: 45%;
 	height: 10px;
 	padding-bottom: 35%;
@@ -204,9 +204,9 @@ p {
 
 #video2 {
 	position: relative;
-	display: inline-block;
+	/*display: inline-block;
 	margin: 0 auto;
-	right: 0px;
+	right: 0px;*/
 	width: 45%;
 	height: 10px;
 	padding-bottom: 35%;
