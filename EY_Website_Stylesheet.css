@@ -199,6 +199,7 @@ p {
 	position: relative;
 	display: inline-block;
 	margin: 0 auto;
+	right: 0px;
 	width: 45%;
 	height: 10px;
 	padding-bottom: 35%;
