@@ -179,14 +179,14 @@ p {
 	position: relative;
 	width: 100%;
 	height: 0px;
-	padding-bottom: 70.3125%;
+	padding-bottom: 10%;
 }
 
 .video1 {
 	/*float: left;
 	margin-left: 35px;*/
 	border: 3px white solid;
-	position: absolute; left: 25px; top: 0px; width: 40%; height: 50%;
+	position: absolute; left: 17.5px; top: 0px; width: 40%; height: 50%;
 }
 
 /*#video2 {
@@ -200,7 +200,7 @@ p {
 	/*float: right;
 	margin-right: 35px;*/
 	border: 3px white solid;
-	position: absolute; right: 25px; top: 0px; width: 40%; height: 50%;
+	position: absolute; right: 17.5px; top: 0px; width: 40%; height: 50%;
 }
 
 .media_logo1 {
