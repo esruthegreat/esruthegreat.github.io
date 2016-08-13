@@ -176,7 +176,7 @@ p {
 }
 
 #video1 {
-	position: absolute;
+	position: relative;
 	width: 100%;
 	height: 0px;
 	padding-bottom: 56.25%;
@@ -190,7 +190,7 @@ p {
 }
 
 #video2 {
-	position: absolute;
+	position: relative;
 	width: 100%;
 	height: 0px;
 	padding-bottom: 56.25%;
