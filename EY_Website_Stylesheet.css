@@ -71,6 +71,7 @@ table, td {
 	margin-right: auto;
 	max-height: 100%;
 	max-width: 100%;
+	border: none;
 }
 
 body {
@@ -189,8 +190,8 @@ p {
 	margin: 0 auto;
 	width: 45%;
 	height: 10px;
-	padding-bottom: 35%;*/
-	border: 3px red solid;
+	padding-bottom: 35%;
+	border: 3px red solid;*/
 }
 
 .video1 {
@@ -209,8 +210,8 @@ p {
 	right: 0px;
 	width: 45%;
 	height: 10px;
-	padding-bottom: 35%;*/
-	border: 3px orange solid;
+	padding-bottom: 35%;
+	border: 3px orange solid;*/
 }
 
 .video2 {
