@@ -177,7 +177,9 @@ p {
 }
 
 #video1 {
-	position: center;
+	position: relative;
+	display: block;
+	margin: 0 auto;
 	width: 80%;
 	height: 0px;
 	padding-bottom: 56.25%;
