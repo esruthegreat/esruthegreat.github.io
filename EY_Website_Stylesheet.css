@@ -71,11 +71,11 @@ table, td {
 	margin-right: auto;
 	max-height: 200%;
 	max-width: 200%;
-	border: none;
+	/*border: none;*/
 }
 
 .video_td {
-	border: none;
+	/*border: none;*/
 }
 
 body {
