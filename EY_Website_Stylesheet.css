@@ -74,6 +74,10 @@ table, td {
 	border: none;
 }
 
+.video_td {
+	border: none;
+}
+
 body {
 	padding: 0;
 	margin: 0;
