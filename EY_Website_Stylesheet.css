@@ -192,7 +192,7 @@ p {
 	border: 3px white solid;
 	display: block;
 	margin: 0 auto;
-	position: absolute; left: 0px; top: 0px; width: 70%; height: 47.5%;
+	position: relative; /*left: 0px;*/ top: 0px; width: 70%; height: 47.5%;
 }
 
 /*#video2 {
@@ -208,7 +208,7 @@ p {
 	border: 3px white solid;
 	display: block;
 	margin: 0 auto;
-	position: absolute; right: 0px; bottom: 0px; width: 70%; height: 47.5%;
+	position: relative; /*right: 0px;*/ bottom: 0px; width: 70%; height: 47.5%;
 }
 
 .media_logo1 {
