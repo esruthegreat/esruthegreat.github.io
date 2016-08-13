@@ -157,6 +157,7 @@ p {
 	text-align: left;
 	font-size: 30px;
 	color: #006600;
+	border: 3px blue solid;
 }
 
 .game1 {
@@ -189,7 +190,7 @@ p {
 	border: 3px white solid;
 	display: block;
 	margin: 0 auto;
-	position: absolute; text-align: center; /*left: 0px;*/ top: 0px; width: 70%; height: 50%;
+	position: absolute; /*left: 0px;*/ top: 0px; width: 40%; height: 50%;
 }
 
 /*#video2 {
@@ -205,7 +206,7 @@ p {
 	border: 3px white solid;
 	display: block;
 	margin: 0 auto;
-	position: absolute; text-align: center; /*left: 0px;*/ bottom: 0px; width: 70%; height: 50%;
+	position: absolute; /*left: 0px;*/ top: 0px; width: 40%; height: 50%;
 }
 
 .media_logo1 {
