@@ -178,8 +178,6 @@ p {
 
 #video1 {
 	position: relative;
-	display: block;
-	margin: 0 auto;
 	width: 90%;
 	height: 0px;
 	padding-bottom: 56.25%;
@@ -192,7 +190,7 @@ p {
 	border: 3px white solid;
 	/*display: inline;
 	margin: 0 auto;*/
-	position: relative; /*left: 0px;*/ top: 0px; width: 70%; height: 47.5%;
+	position: absolute; /*left: 0px;*/ top: 0px; width: 70%; height: 47.5%;
 }
 
 /*#video2 {
@@ -208,7 +206,7 @@ p {
 	border: 3px white solid;
 	/*display: inline;
 	margin: 0 auto;*/
-	position: relative; /*right: 0px;*/ bottom: 0px; width: 70%; height: 47.5%;
+	position: absolute; /*right: 0px;*/ bottom: 0px; width: 70%; height: 47.5%;
 }
 
 .media_logo1 {
