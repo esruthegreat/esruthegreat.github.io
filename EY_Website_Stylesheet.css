@@ -196,9 +196,9 @@ p {
 }
 
 #video2 {
-	position: relative;
-	display: inline-block;
-	/*margin: 0 auto;*/
+	position: absolute;
+	/*display: inline-block;
+	margin: 0 auto;*/
 	right: 0px;
 	width: 45%;
 	height: 10px;
