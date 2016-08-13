@@ -66,6 +66,11 @@ table, td {
 	max-width: 70%;
 }
 
+.video_table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 body {
 	padding: 0;
 	margin: 0;
@@ -196,9 +201,9 @@ p {
 }
 
 #video2 {
-	position: absolute;
-	/*display: inline-block;
-	margin: 0 auto;*/
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
 	right: 0px;
 	width: 45%;
 	height: 10px;
