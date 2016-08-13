@@ -46,11 +46,11 @@ color: red;
 color: grey;
 }
 
-table, td {
+/*table, td {
 	padding: 0;
 	margin: 0;
 	border: 6px blue solid;
-}
+}*/
 
 .table1 {
 	margin-left: auto;
