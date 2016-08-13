@@ -190,8 +190,8 @@ p {
 	/*float: left;
 	margin-left: 35px;*/
 	border: 3px white solid;
-	display: inline;
-	margin: 0 auto;
+	/*display: inline;
+	margin: 0 auto;*/
 	position: relative; /*left: 0px;*/ top: 0px; width: 70%; height: 47.5%;
 }
 
@@ -206,8 +206,8 @@ p {
 	/*float: right;
 	margin-right: 35px;*/
 	border: 3px white solid;
-	display: inline;
-	margin: 0 auto;
+	/*display: inline;
+	margin: 0 auto;*/
 	position: relative; /*right: 0px;*/ bottom: 0px; width: 70%; height: 47.5%;
 }
 
