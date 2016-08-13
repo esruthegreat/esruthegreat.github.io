@@ -152,8 +152,8 @@ p {
 }
 
 .youtube_link {
-	margin-bottom: 20px;
-	margin-left: 35px;
+	/*margin-bottom: 20px;*/
+	margin-left: 15px;
 	text-align: left;
 	font-size: 30px;
 	color: #006600;
@@ -188,9 +188,9 @@ p {
 	/*float: left;
 	margin-left: 35px;*/
 	border: 3px white solid;
-	display: block;
-	margin: 0 auto;
-	position: absolute; /*left: 0px;*/ top: 0px; width: 40%; height: 50%;
+	/*display: block;
+	margin: 0 auto;*/
+	position: absolute; left: 0px; top: 0px; width: 40%; height: 50%;
 }
 
 /*#video2 {
@@ -204,9 +204,9 @@ p {
 	/*float: right;
 	margin-right: 35px;*/
 	border: 3px white solid;
-	display: block;
-	margin: 0 auto;
-	position: absolute; /*left: 0px;*/ top: 0px; width: 40%; height: 50%;
+	/*display: block;
+	margin: 0 auto;*/
+	position: absolute; right: 0px; top: 0px; width: 40%; height: 50%;
 }
 
 .media_logo1 {
