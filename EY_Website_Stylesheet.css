@@ -200,7 +200,7 @@ p {
 	/*float: right;
 	margin-right: 35px;*/
 	border: 3px white solid;
-	position: absolute; right: 0px; top: 0px; width: 40%; height: 50%;
+	position: absolute; right: 0px; bottom: 0px; width: 40%; height: 50%;
 }
 
 .media_logo1 {
