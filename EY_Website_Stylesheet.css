@@ -69,8 +69,8 @@ table, td {
 .video_table {
 	margin-left: auto;
 	margin-right: auto;
-	height: 150%;
-	width: 150%;
+	height: 60%;
+	width: 60%;
 	/*border: none;*/
 }
 
@@ -194,9 +194,9 @@ p {
 	/*position: relative;
 	display: inline-block;
 	margin: 0 auto;*/
-	height: 100%;
 	width: 100%;
 	padding-bottom: 30%;
+	height: 100%;
 	/*border: 3px red solid;*/
 }
 
