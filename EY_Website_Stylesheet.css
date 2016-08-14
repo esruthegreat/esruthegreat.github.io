@@ -195,8 +195,8 @@ p {
 	display: inline-block;
 	margin: 0 auto;
 	padding-bottom: 20%;*/
-	width: 100%;
-	height: 100%;
+	width: 75%;
+	height: 200%;
 	border: 3px red solid;
 }
 
@@ -210,7 +210,7 @@ p {
 	left: 10px;
 	top: 0px;*/
 	width: 75%;
-	height: 125%;
+	height: 200%;
 }
 
 #video2 {
@@ -234,7 +234,7 @@ p {
 	right: 10px;
 	top: 0px;*/
 	width: 75%;
-	height: 125%;
+	height: 200%;
 }
 
 .media_logo1 {
