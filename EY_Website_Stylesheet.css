@@ -75,6 +75,8 @@ table, td {
 }
 
 .video_td {
+	max-height: 120%;
+	max-width: 120%;
 	/*border: none;*/
 }
 
