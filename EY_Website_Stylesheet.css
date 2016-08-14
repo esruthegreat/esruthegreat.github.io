@@ -193,9 +193,9 @@ p {
 	display: inline-block;
 	margin: 0 auto;
 	width: 45%;
-	height: 10px;
-	padding-bottom: 35%;
-	border: 3px red solid;*/
+	height: 10px;*/
+	padding-bottom: 56.25%;
+	/*border: 3px red solid;*/
 }
 
 .video1 {
@@ -204,7 +204,11 @@ p {
 	border: 3px white solid;
 	/*display: block;
 	margin: 0 auto;
-	position: absolute; left: 10px; top: 0px; width: 85%; height: 100%;*/
+	position: absolute;
+	left: 10px;
+	top: 0px;
+	width: 85%;
+	height: 100%;*/
 }
 
 #video2 {
@@ -213,9 +217,9 @@ p {
 	margin: 0 auto;
 	right: 0px;
 	width: 45%;
-	height: 10px;
-	padding-bottom: 35%;
-	border: 3px orange solid;*/
+	height: 10px;*/
+	padding-bottom: 56.25%;
+	/*border: 3px orange solid;*/
 }
 
 .video2 {
@@ -224,7 +228,11 @@ p {
 	border: 3px white solid;
 	/*display: block;
 	margin: 0 auto;
-	position: absolute; right: 10px; top: 0px; width: 85%; height: 100%;*/
+	position: absolute;
+	right: 10px;
+	top: 0px;
+	width: 85%;
+	height: 100%;*/
 }
 
 .media_logo1 {
