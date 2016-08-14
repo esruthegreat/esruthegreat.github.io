@@ -192,8 +192,8 @@ p {
 	/*position: relative;
 	display: inline-block;
 	margin: 0 auto;
-	width: 45%;
 	height: 10px;*/
+	width: 60%;
 	padding-bottom: 56.25%;
 	/*border: 3px red solid;*/
 }
@@ -216,8 +216,8 @@ p {
 	display: inline-block;
 	margin: 0 auto;
 	right: 0px;
-	width: 45%;
 	height: 10px;*/
+	width: 45%;
 	padding-bottom: 56.25%;
 	/*border: 3px orange solid;*/
 }
