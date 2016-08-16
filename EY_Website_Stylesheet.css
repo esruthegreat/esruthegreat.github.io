@@ -311,15 +311,13 @@ li {
 .resize2 {
 	/*position: relative;
 	float: left;*/
-	margin: auto;
-	max-width: 70%;
-	max-height: 70%;
+	max-width: 100%;
+	max-height: 100%;
 	border: 3px white solid;
 }
 
 .home {
-	padding-left: 15%;
-	padding-right: 15%;
+	margin: auto;
 	width: 70%;
 	height: 100%;
 	border: 3px red solid;
