@@ -3,10 +3,9 @@ position: fixed;
 top: 0;
 width: 100%;
 color: #ffffff;
-height: 45px;
+height: 47.5px;
 text-align: center;
-padding-top: 12.5px;
-padding-bottom: 12.5px;
+padding-top: 10px;
 
 /* Adds shadow to the bottom of the bar */
 -webkit-box-shadow: 0px 0px 8px 0px #000000;
@@ -20,7 +19,7 @@ color: rgba(1, 1, 1, 0.8);
 
 #navigation a {
 font-family: Verdana;
-font-size: 2.5vw/*, 50%*/;
+font-size: 2.625vw/*, 50%*/;
 padding-left: 2%;
 padding-right: 2%;
 color: white;
