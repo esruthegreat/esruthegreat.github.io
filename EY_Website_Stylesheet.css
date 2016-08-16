@@ -150,8 +150,8 @@ p {
 }
 
 .bio {
-	/*margin-left: 75px;*/
-	margin-right: 10px;
+	/*margin-left: 75px;
+	margin-right: 10px;*/
 	text-align: center;
 	font-size: 150%;
 	color: #006600;
@@ -164,7 +164,7 @@ p {
 
 .about_me {
 	text-align: center;
-	font-size: 30px;
+	font-size: 150%;
 	color: #006600;
 }
 
