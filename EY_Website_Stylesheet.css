@@ -317,14 +317,14 @@ li {
 }
 
 .home {
-	display: block;
+	float: left;
 	width: 45%;
 	height: 100%;
 	border: 3px red solid;
 }
 
 .home2 {
-	display: block;
+	float: right;
 	width: 45%;
 	height: 50%;
 	border: 3px orange solid;
