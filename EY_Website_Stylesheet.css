@@ -319,14 +319,14 @@ li {
 .home {
 	float: left;
 	width: 45%;
-	height: 100%;
+	height: 300%;
 	border: 3px red solid;
 }
 
 .home2 {
 	float: right;
 	width: 45%;
-	height: 50%;
+	height: 300%;
 	border: 3px orange solid;
 }
 
