@@ -152,7 +152,7 @@ p {
 .bio {
 	/*margin-left: 75px;*/
 	margin-right: 10px;
-	text-align: right;
+	text-align: center;
 	font-size: 150%;
 	color: #006600;
 }
@@ -321,7 +321,7 @@ li {
 	padding-right: 15%;
 	width: 70%;
 	height: 300%;
-	border: 3px red solid;
+	/*border: 3px red solid;*/
 }
 
 .home2 {
@@ -329,7 +329,7 @@ li {
 	padding-right: 15%;
 	width: 70%;
 	height: 300%;
-	border: 3px orange solid;
+	/*border: 3px orange solid;*/
 }
 
 .title_size {
