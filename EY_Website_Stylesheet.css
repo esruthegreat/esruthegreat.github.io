@@ -151,7 +151,7 @@ p {
 
 .bio {
 	/*margin-left: 75px;*/
-	margin-right: 20px;
+	margin-right: 10px;
 	text-align: right;
 	font-size: 30px;
 	color: #006600;
@@ -311,14 +311,14 @@ li {
 .resize2 {
 	position: relative;
 	/*float: left;*/
-	max-width: 40%;
-	max-height: 40%;
+	max-width: 100%;
+	max-height: 100%;
 	border: 3px white solid;
 }
 
 .home {
 	width: 45%;
-	height: 50%;
+	height: 100%;
 	border: 3px red solid;
 }
 
