@@ -320,14 +320,14 @@ li {
 	float: left;
 	width: 45%;
 	height: 300%;
-	border: 3px red solid;
+	/*border: 3px red solid;*/
 }
 
 .home2 {
 	float: right;
 	width: 45%;
 	height: 300%;
-	border: 3px orange solid;
+	/*border: 3px orange solid;*/
 }
 
 .title_size {
