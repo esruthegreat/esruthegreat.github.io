@@ -157,9 +157,12 @@ p {
 	color: #006600;
 }
 
+.about {
+	margin: auto;
+	width: 60%;
+}
+
 .about_me {
-	margin-left: 200px;
-	margin-right: 200px;
 	text-align: center;
 	font-size: 30px;
 	color: #006600;
