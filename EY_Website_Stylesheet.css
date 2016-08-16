@@ -317,13 +317,15 @@ li {
 }
 
 .home {
-	width: 50%;
+	width: 45%;
 	height: 50%;
+	border: 3px red solid;
 }
 
 .home2 {
-	width: 50%;
+	width: 45%;
 	height: 50%;
+	border: 3px orange solid;
 }
 
 .title_size {
