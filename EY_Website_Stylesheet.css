@@ -320,7 +320,7 @@ li {
 	padding-left: 15%;
 	padding-right: 15%;
 	width: 70%;
-	height: auto;
+	height: 100%;
 	border: 3px red solid;
 }
 
@@ -329,7 +329,7 @@ li {
 	padding-right: 15%;
 	width: 70%;
 	height: 300%;
-	/*border: 3px orange solid;*/
+	border: 3px orange solid;
 }
 
 .title_size {
