@@ -3,7 +3,7 @@ position: fixed;
 top: 0;
 width: 100%;
 color: #ffffff;
-height: 45%;
+height: 14.5%;
 text-align: center;
 padding-top: 12.5px;
 
@@ -19,7 +19,7 @@ color: rgba(1, 1, 1, 0.8);
 
 #navigation a {
 font-family: Verdana;
-font-size: 2.625vw/*, 50%*/;
+font-size: 2.5vw/*, 50%*/;
 padding-left: 2%;
 padding-right: 2%;
 color: white;
