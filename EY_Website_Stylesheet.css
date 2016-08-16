@@ -166,12 +166,12 @@ p {
 }
 
 .youtube_link {
-	/*margin-bottom: 20px;*/
-	margin-left: 15px;
-	text-align: left;
-	font-size: 30px;
+	/*margin-bottom: 20px;
+	margin-left: 15px;*/
+	text-align: center;
+	font-size: 25px;
 	color: #006600;
-	border: 3px blue solid;
+	/*border: 3px blue solid;*/
 }
 
 .game1 {
