@@ -153,7 +153,7 @@ p {
 	/*margin-left: 75px;*/
 	margin-right: 10px;
 	text-align: right;
-	font-size: 50%;
+	font-size: 150%;
 	color: #006600;
 }
 
@@ -311,7 +311,7 @@ li {
 .resize2 {
 	/*position: relative;
 	float: left;*/
-	max-width: 40%;
+	max-width: 100%;
 	max-height: 40%;
 	border: 3px white solid;
 }
