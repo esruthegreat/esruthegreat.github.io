@@ -317,15 +317,17 @@ li {
 }
 
 .home {
-	float: left;
-	width: 45%;
+	padding-left: 15%;
+	padding-right: 15%;
+	width: 70%;
 	height: 300%;
 	border: 3px red solid;
 }
 
 .home2 {
-	float: right;
-	width: 52.5%;
+	padding-left: 15%;
+	padding-right: 15%;
+	width: 70%;
 	height: 300%;
 	border: 3px orange solid;
 }
