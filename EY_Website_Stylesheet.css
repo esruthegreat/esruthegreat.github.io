@@ -317,12 +317,14 @@ li {
 }
 
 .home {
+	display: inline-block;
 	width: 45%;
 	height: 100%;
 	border: 3px red solid;
 }
 
 .home2 {
+	display: inline-block;
 	width: 45%;
 	height: 50%;
 	border: 3px orange solid;
