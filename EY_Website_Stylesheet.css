@@ -160,13 +160,13 @@ p {
 .about {
 	margin: auto;
 	vertical-align: middle;
-	width: 50%;
+	width: 60%;
 	/*border: 3px red solid;*/
 }
 
 .about_me {
 	text-align: center;
-	font-size: 120%;
+	font-size: 150%;
 	color: #006600;
 }
 
