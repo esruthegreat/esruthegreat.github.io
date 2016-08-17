@@ -159,6 +159,7 @@ p {
 
 .about {
 	margin: auto;
+	display: inline-block;
 	vertical-align: middle;
 	width: 80%;
 	border: 3px red solid;
