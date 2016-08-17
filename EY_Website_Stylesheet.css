@@ -157,7 +157,6 @@ h6 {
 	font-size: 30px;
 	color: #006600;
 	text-shadow: 0.5px 0.5px #00cc00;
-	border: 3px red solid;
 }
 
 h7 {
@@ -208,7 +207,7 @@ p {
 	width: 70%;
 	height: 70%;
 	padding-bottom: 5%;
-	border: 3px red solid;
+	/*border: 3px red solid;*/
 }
 
 .game1 {
@@ -225,7 +224,7 @@ p {
 	width: 70%;
 	height: 70%;
 	padding-bottom: 5%;
-	border: 3px orange solid;
+	/*border: 3px orange solid;*/
 }
 
 .game2 {
