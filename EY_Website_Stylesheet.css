@@ -158,10 +158,9 @@ p {
 }
 
 .about {
-	display: inline-block;
 	margin: auto;
 	vertical-align: middle;
-	width: 80%;
+	width: 70%;
 	border: 3px red solid;
 }
 
