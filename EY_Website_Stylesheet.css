@@ -74,9 +74,14 @@ table, td {
 }
 
 .media_td {
-	display: block;
 	height: 60%;
 	width: 45%;
+}
+
+.media_logo {
+	display: inline-block;
+	height: 100%;
+	width: 100%;
 }
 
 .video_table {
