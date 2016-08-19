@@ -24,7 +24,7 @@
 
 .rslides img {
   display: block;
-  position: relative
+  position: relative;
   z-index: 1;
   height: auto;
   margin: auto;
