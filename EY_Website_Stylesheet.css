@@ -49,14 +49,14 @@ color: grey;
 table, td {
 	padding: 0;
 	margin: 0;
-	border: 6px blue solid;
+	border: none/*6px blue solid*/;
 }
 
 .table1 {
 	margin-left: auto;
 	margin-right: auto;
-	max-height: 120%;
-	max-width: 120%;
+	max-height: 85%;
+	max-width: 85%;
 }
 
 .table2 {
@@ -385,6 +385,7 @@ li {
 	max-width: 100%;
 	height: auto;
 	display: block;
+	border: 3px gray solid;
 }
 
 .resize2 {
