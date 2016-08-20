@@ -19,7 +19,7 @@ color: rgba(1, 1, 1, 0.8);
 
 #navigation a {
 font-family: Verdana;
-font-size: 2.35vw/*, 50%*/;
+font-size: /*2.35vw,*/ 100%;
 padding-left: 2%;
 padding-right: 2%;
 color: white;
