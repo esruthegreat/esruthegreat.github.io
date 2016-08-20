@@ -171,7 +171,6 @@ h6 {
 	font-size: 30px;
 	color: #006600;
 	text-shadow: 0.5px 0.5px #00cc00;
-	padding-top: 5%;
 }
 
 h7 {
@@ -221,7 +220,7 @@ p {
 	margin-right: auto;
 	width: 70%;
 	height: 70%;
-	padding-bottom: 5%;
+	padding-bottom: 7%;
 	/*border: 3px red solid;*/
 }
 
